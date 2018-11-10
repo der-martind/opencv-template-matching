@@ -1,3 +1,0 @@
-opencvtemplatematching.MatchTemplateDemoRun
-opencvtemplatematching.MatchTemplateDemo
-opencvtemplatematching.OpenCVTemplateMatching
